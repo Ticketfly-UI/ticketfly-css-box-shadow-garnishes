@@ -1,6 +1,6 @@
 {
   "name": "ticketfly-css-box-shadow-garnishes",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Box-Shadow garnish helpers for Ticketfly CSS",
   "main": "index.css",
   "style": "index.css",
